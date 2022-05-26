@@ -20,6 +20,7 @@ Comprobar que la Ley de Kirchhoff de voltajes es útil en circuitos mixtos para 
 
 2.MARCO TEÓRICO
 
+![Leyes de Kirchhoff](https://user-images.githubusercontent.com/105291794/170425480-678089f0-8137-4851-94ed-de7298ab7a19.jpg)
 
 
 
